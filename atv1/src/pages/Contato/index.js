@@ -46,12 +46,6 @@ export default function Contato() {
 
                         </Pressable>
 
-
-
-                        {/* Título;
-                        3 TextInput com suas respectivas descrições;
-                        Botão enviar que exiba uma mensagem ao ser clicado; */}
-
                     </View>
 
                 </View>
